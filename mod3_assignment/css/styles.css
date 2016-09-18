@@ -14,10 +14,6 @@ body {
   padding-bottom: 15px;
 }
 
-.navbar-header{
-  position: relative;
-}
-
 .navbar-brand {
    float: left;
     height: 50px;
@@ -184,7 +180,6 @@ body {
   /* Home Page */
  
   #menu-tile, #specials-tile {
-    width: 360px;
     margin: 0 auto 15px;
   }
 
